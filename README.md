@@ -1,1 +1,2 @@
-# django-react-rest
+# Django RestFramework + React
+
